@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  
+  <body>
+    <div class="container" dir="ltr">
+      <div class="">
+        <aside class="pa3 ph2-ns pt2-ns has-menu helvetica">
+          {% include navigation.html %}
+        </aside>
+        <main class="ph2 ph0-ns w-60-m mt0 center-ns helvetica w-50-l">
+          {{ content }}
+        </main>
+     </div>
+      
+      {% include footer.html %}
+
+    </div>
+
+    <!-- Prism.js -->
+    <script src="https://npmcdn.com/prismjs@1.5.1/prism.js"></script>
+    
+    
+  </body>
+
+</html>
