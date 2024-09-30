@@ -3,7 +3,7 @@ layout: post
 permalink: about
 ---
 
-<img src="/images/web/home.jpg" width="300" height="200">
+<img src="/images/web/404.webp" width="400" height="300">
 
 ʕง•ᴥ•ʔง
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/noon
 title: 一个人的午后
 author: Bear

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/socail
 title: 无用社交媒体📺
 author: Bear

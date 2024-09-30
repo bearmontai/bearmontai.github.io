@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/feel
 title: 感悟
 author: Bear

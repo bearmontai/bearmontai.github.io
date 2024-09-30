@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/Design and Thinking
 title: Futures Design and Thinking
 author: Bear

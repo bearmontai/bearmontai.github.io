@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/write
 title: 我为什么写作
 author: Bear

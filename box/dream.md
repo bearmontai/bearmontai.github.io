@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/dream
 title:  梦想没有截止期
 author: Bear

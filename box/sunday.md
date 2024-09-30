@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/last
 title: 我们都缺少最后的期限
 author: Bear

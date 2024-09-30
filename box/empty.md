@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/empty
 title: 空白思维
 author: Bear

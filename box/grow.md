@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 permalink: box/yougrow
 title: 成熟标志
 author: Bear
