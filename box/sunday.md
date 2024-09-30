@@ -1,8 +1,10 @@
 ---
 layout: default
 permalink: box/last
+title: 我们都缺少最后的期限
+author: Bear
+date: 2024-4-26 22:00
 ---
-# 我们都缺少最后的期限
 
 >我保证你的想法比你想象的要多得多。
 >你不缺乏想法，你缺乏最后期限。

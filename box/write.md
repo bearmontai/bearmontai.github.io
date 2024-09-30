@@ -1,8 +1,11 @@
 ---
 layout: default
 permalink: box/write
+title: 我为什么写作
+author: Bear
+date: 2024-3-14 22:00
 ---
-# 我为什么写作
+
 写作是一种表达想法的途径，更是一种记录美好事物的工具。
 学会写作的最重要的一点就是要坚持、忍受寂寞、忘我地写。
 

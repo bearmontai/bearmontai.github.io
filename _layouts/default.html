@@ -6,11 +6,12 @@
   <body>
     <div class="container" dir="ltr">
       <div class="">
-        <aside class="pa3 ph2-ns pt2-ns has-menu helvetica">
-          {% include navigation.html %}
-        </aside>
-        <main class="ph2 ph0-ns w-60-m mt0 center-ns helvetica w-50-l">
-          {{ content }}
+        {% include navigation.html %}
+        <br>
+        <br>
+        <main class="ph2 ph0-ns mw7 w-60-m w-40-l mt0 center-ns helvetica" itemprop="mainEntity" itemscope="" itemtype="http://schema.org/BlogPosting">
+          
+         {{ content }}
         </main>
      </div>
       
